@@ -1,0 +1,4 @@
+* @balimidi
+*.js @balimidi
+*.yml @ganesh
+/public/ @balimidi
